@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Humanities",
+      "Literature"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "958bc8cc-5744-f2d8-26a7-d083922b71d4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Feeling and Imagination in Art, Science, and Technology",
+  "course_description": "This course is a seminar on creativity in art, science, and technology. We discuss how these pursuits are jointly dependent on affective as well as cognitive elements in human nature.\u00a0We study feeling and imagination in relation to principles of idealization, consummation, and the aesthetic values that give meaning to science and technology as well as literature and the other arts. Readings in philosophy, psychology, and literature are part of the course.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.262",
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
